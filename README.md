@@ -11,7 +11,7 @@
 
 𝚃𝙰𝙺𝙴 𝚂𝚃𝚁𝙸𝙽𝙶 𝙵𝚁𝙾𝙼 𝙷𝙴𝚁𝙴 - 
 
-  ❀❀ɪᴅs sᴛʀɪɴɢ❀❀
+  ❀❀ɪᴅs Sᴛʀɪɴɢ❀❀
 
 [![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://replit.com/@darkaman5/DARK#main.py)
  
@@ -21,6 +21,6 @@
      
 ## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[DᴀʀᴋAᴍᴀɴ](https://t.me/DARKAMAN)
 
-##❀❀ᴄʀᴇᴅɪᴛs❀❀
+❀❀ᴄʀᴇᴅɪᴛs❀❀
 
 • ᴠɪᴠᴇᴋ ʙʀᴏ »»   <a href="https://github.com//unknownforall1" alt="ᴠɪᴠᴇᴋ ʙʀᴏ"> <img src="https://img.shields.io/badge/ᴠɪᴠᴇᴋ ʙʀᴏ-A679d?logo=github" /></a>

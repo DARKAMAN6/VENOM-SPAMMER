@@ -2021,7 +2021,7 @@ text = """
 
 print(text)
 print("")
-print("ɮօȶ ʀɛǟɖʏ ɦǟɨ ʋɨօʍʀ")
+print("❀❀ɮօȶ ʀɛǟɖʏ ɦǟɨ ʋɨʍʀօ❀❀")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()

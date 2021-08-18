@@ -895,7 +895,7 @@ async def start_yukki():
             await wal(functions.channels.JoinChannelRequest(channel="@DARKAMANCHANNEL"))
             await wal(functions.channels.JoinChannelRequest(channel="@DARKAMANSUPPORT"))
             await wal(functions.channels.JoinChannelRequest(channel="@DARKAMANCHANNEL"))
-          ..await wal(functions.channels.JoinChannelReques          (channel
+            await wal(functions.channels.JoinChannelReques          (channel
                 ="@DARKAMANSUPPORT"))
             botme = await wal.get_me()
             botid = telethon.jutils.get_peer_id(botme)

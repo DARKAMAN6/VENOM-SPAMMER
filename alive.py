@@ -5,6 +5,8 @@ from telethon import TelegramClient, events
 from telethon.tl import functions
 import telethon as tbot
 
+PHOTO = "https://te.legra.ph/file/d3d7861305fe0b833fa11.jpg"
+
 async def awake(event):
   TEXT = f"𝐇𝐈 [{event.sender.first_name}](tg://user?id={event.sender.id}), 𝐈'𝐌 𝐀𝐋𝐄𝐗𝐀 \n\n"
   TEXT += "✨ 𝐈'𝐌 𝐖𝐎𝐑𝐊𝐈𝐍𝐆 𝐏𝐑𝐎𝐏𝐄𝐑𝐋𝐘 \n\n"

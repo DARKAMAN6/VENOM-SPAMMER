@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fdarkaman5%2FVENOM-SPAMMER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fdarkaman6%2FVENOM-SPAMMER)
 
 ------------------------------------------------
 

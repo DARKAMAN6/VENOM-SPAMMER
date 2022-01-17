@@ -4,6 +4,7 @@ from telethon import events, Button
 from telethon import TelegramClient, events
 from telethon.tl import functions
 import telethon as tbot
+from Config import SUDO_USERS
 
 PHOTO = "https://te.legra.ph/file/d3d7861305fe0b833fa11.jpg"
 
